@@ -1,3 +1,3 @@
-Links to videos:
+Repo to host videos for KLemon Lab presentations:
 
-- Test Video: https://klemonlab.github.io/Video/test.mp4
+- Example Video: https://klemonlab.github.io/Video/test.mp4
